@@ -1,0 +1,8 @@
+# Add all files in the folder to Git
+git add .
+
+# Commit the changes
+git commit -m "Add HTML and CSS files for Loven Products website"
+
+# Push to the remote repository
+git push origin main
