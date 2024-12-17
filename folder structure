@@ -1,0 +1,9 @@
+loven-products-website/
+│
+├── index.html
+├── styles.css
+└── assets/
+    ├── logo.png
+    └── product1.jpg
+    └── product2.jpg
+    └── product3.jpg
